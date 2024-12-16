@@ -83,6 +83,3 @@ The **File Interceptor** is a monitoring tool designed to observe file activitie
 - **Permission Issues**:
   - Run the script with appropriate permissions to access the monitored directory.
 
-## License
-
-This project is licensed under the MIT License.
